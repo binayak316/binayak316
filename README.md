@@ -1,5 +1,5 @@
 # 💫 About Me:
-wave Hi, I’m @binayak316<br>I’m interested in webdev, software engineering<br>I’m currently learning PYTHON-Django
+ Hi, I’m @binayak316<br>I’m interested in webdev, software engineering<br>I’m currently learning PYTHON-Django
 
 
 ## 🌐 Socials:
