@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Binayak Pokhrel</h1>
-<h3 align="center">A web/app developer from Nepal</h3>
+
+<h3 align="center">Binayak Pokhrel (web/app developer) </h3>
 
 
 > I’m currently working on **Inventory Management system** and I’m currently learning **Flutter**
