@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Binayak Pokhrel</h1>
 <h3 align="center">A web/app developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binayak316&label=Profile%20views&color=0e75b6&style=flat" alt="binayak316" /> </p>
 
-- 🔭 I’m currently working on **Inventory Management system**
+> I’m currently working on **Inventory Management system** and I’m currently learning **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
