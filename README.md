@@ -1,5 +1,5 @@
 
-<h3 align="center">Binayak Pokhrel (web/app developer) </h3>
+<h3 align="center">Binayak Pokhrel Learning(web/app development) </h3>
 
 
 > I’m currently working on **Inventory Management system** and I’m currently learning **Flutter**
