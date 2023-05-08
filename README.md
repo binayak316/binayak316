@@ -1,7 +1,7 @@
 
 <h3 align="center">Binayak Pokhrel Learning(web/app development) </h3>
 
-print(x) & print(); 
+print(x) & print(x); 
 
 
 > I’m currently working on **Inventory Management system** and I’m currently learning **Flutter**
