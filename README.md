@@ -4,7 +4,7 @@
 print(x) & print(x); 
 
 
-> I’m currently working on **Inventory Management system** and I’m currently learning **Flutter**
+>  currently learning **Flutter**
 
 
 <h3 align="left">Connect with me:</h3>
