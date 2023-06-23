@@ -1,9 +1,6 @@
 
 <h3 align="center">Binayak Pokhrel Learning(web/app development) </h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Binayak%20&theme=highcontrast&hide_border=true&border_radius=8.6)](https://git.io/streak-stats)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayak316)
 >  currently learning **Flutter**
 
 
