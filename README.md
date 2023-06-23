@@ -1,7 +1,7 @@
 
 <h3 align="center">Binayak Pokhrel Learning(web/app development) </h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=binayak316&theme=highcontrast&hide_border=true&border_radius=8.6)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binayak316&" alt="mrjung988" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
