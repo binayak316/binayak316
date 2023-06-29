@@ -1,7 +1,7 @@
 
 <h3 align="center">Binayak Pokhrel Learning(web/app development) </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binayak316&" alt="mrjung988" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binayak316&" alt="Binayak Pokhrel" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
