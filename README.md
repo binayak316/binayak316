@@ -1,9 +1,9 @@
 <h1 align="center">Binayak Pokhrel</h1>
-<h3 align="center">Mobile App Developer | Flutter • Firebase • Clean Architecture</h3>
+<h3 align="center">Mobile App Developer | Flutter </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayak316&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
